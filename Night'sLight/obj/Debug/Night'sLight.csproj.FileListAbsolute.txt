@@ -1,0 +1,14 @@
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\bin\Debug\Night'sLight.exe.config
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\bin\Debug\Night'sLight.exe
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\bin\Debug\Night'sLight.pdb
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\obj\Debug\Night'sLight.csproj.AssemblyReference.cache
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\obj\Debug\Night'sLight.csproj.CoreCompileInputs.cache
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\obj\Debug\Night'sLight.exe
+D:\C# Visual Studio Codes\Game Project\FINAL GAME PROJECT\Night'sLight\obj\Debug\Night'sLight.pdb
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\bin\Debug\Night'sLight.exe.config
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\bin\Debug\Night'sLight.exe
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\bin\Debug\Night'sLight.pdb
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\obj\Debug\Night'sLight.csproj.AssemblyReference.cache
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\obj\Debug\Night'sLight.csproj.CoreCompileInputs.cache
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\obj\Debug\Night'sLight.exe
+D:\COLLEGE\2ND YEAR SCHOOL\1ST SEM\Night'sLight\obj\Debug\Night'sLight.pdb
